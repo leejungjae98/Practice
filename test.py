@@ -1,1 +1,1 @@
-print('hello world')
+print('임정튜터님 잘생기셨습니다.')
